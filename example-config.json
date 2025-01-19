@@ -1,0 +1,23 @@
+{
+    "bot_token": "BOT-TOKEN-HERE",
+    "channel_id": 1234567891011121314,
+    "server_ip": "170,0,0,1",
+    "server_port": 40120,
+    "embed_customization": {
+      "title": "Server-Name Here",
+      "description": "Stay updated on the server population, queue, and status.",
+      "footer": "Designed by @lordofthecorgis",
+      "author": {
+      "name": "Corgis Customs",
+      "icon_url": "PNG-HERE"
+    },
+    "thumbnail": "PNG-HERE"
+  },
+    "buttons": [
+      {
+        "label": "Connect to Server-Name",
+        "url": "https://cfx.re/join/PUT-CODE-HERE"
+      }
+    ]
+  }
+  
