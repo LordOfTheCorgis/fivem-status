@@ -96,7 +96,7 @@ A customizable Discord bot that displays the live status of your FiveM server. T
 ### Example Output
 The bot will post a Discord embed like this:
 
-![Example Embed](https://example.com/embed-preview.png)
+![Example Embed](https://i.imgur.com/4zHX1tZ.png)
 
 ---
 
